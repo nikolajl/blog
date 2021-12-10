@@ -1,5 +1,27 @@
+* Harry Potter: Hermione, Harry og whoever er alle muggles
+* Anders And: Anders Ands 3 nevøer hedder Risk, Rask og Rusk
+* Paw Patrol:
+* Frost:
+* Cars:
+* Løvernes konge:
+* Løven, Heksen og kosteskabet (garderobeskabet)
+* Skønheden og udyret: Bella
+* Brødrende Løvehjerte: 
+* Sang: Der bor en bager på Nørrebrogade (i Nørregade)
+* 
 
 
+
+Forget about meetings, roles and user stories. Do this instead.
+- The secret to sucessful scrum. 
+
+There are 2 things you need to know to succeed with agile. 1: What you want. 2: How to do it.
+
+It might sound simple, because it is, and yet you would be surprised how few actually do this. Most organisations start by assigning titles, like Product Owner, Scrum Master, Agile Coach, etc. or worse - they strip people of the titles they have spent a career earning; lead architect, senior developer, QA manager. All that hard work; gone. Now, all are just developers. And don't get me started about the meetings.
+
+While the roles, artifacts and meetings are part of agile - certainly an inescapable part of scrum - they do not matter as much as what I will be focusing on in this article: 1: What you want. 2: How to do it.
+
+1: What you want.
 
 
 
