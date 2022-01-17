@@ -150,7 +150,7 @@ High level:
 
 
 
-
+```
 git config --global user.name "Nikolaj Lundsgaard"
 git config --global user.email "nikolaj@konfus.dk"
 git config --global alias.cm 'commit -m'
@@ -159,7 +159,7 @@ git config --global alias.st 'status'
 git config --global alias.cd 'checkout'
 git config --global alias.lg 'log --graph --abbrev-commit --decorate --format=format:"%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)"'
 git config --global alias.prune 'fetch --prune'
-
+```
 
 
 Hi [name], 
