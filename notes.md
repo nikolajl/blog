@@ -1,3 +1,15 @@
+ ```
+ .AddNewtonsoftJson(options =>
+    {
+	options.SerializerSettings.Converters.Add(new StringEnumConverter());
+
+	options.SerializerSettings.DateParseHandling = DateParseHandling.DateTime;
+	options.SerializerSettings.DateTimeZoneHandling = DateTimeZoneHandling.Local;
+    });
+```
+
+
+
 * Harry Potter: Hermione, Harry og whoever er alle muggles
 * Anders And: Anders Ands 3 nevøer hedder Risk, Rask og Rusk
 * Paw Patrol:
