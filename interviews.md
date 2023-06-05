@@ -1,0 +1,21 @@
+As a freelance developer, I am often interviewing for new potential projects. These interviews are a lot like job interviews, so I have a lot of experience with interviews and yet I am still really bad at them. Supposing a 'it's not me, it's you' point of view, allow me to share how the interview process could be improved - from the point of view of the developer being interviewed.
+
+When interviewing candidates for a position, your goal is to get the candidate with the best skills for the work, and personality for the culture. In order to do that, and again this only applies for technical roles, you need to assess how they would function in that environment. However, in an interview that environment does not exist. Neither the culture, colleagues or work is present in the interview. So let's fix that.
+
+Invite a senior from the team/department where the candidate will be working. They will probably be as uncomfortable as the candidate, so that's worth keeping in mind. Their role will be to bring a snippet of tech, e.g. some code, from the actual project they are working on and pair program with the candidate.
+
+As the interviewer, your role will be to facilitate the conversation between the senior and the candidate, not to drive it. Start of by introducing yourself and your role, and lay out how the interview will progress from here. Then introduce the senior, make sure to explain that the senior is not here to evaluate the candidates performance, but to help out with the session.
+
+The first half of the session, the senior will explain the problem domain. This can be an explanation of what the software solution offers, the business domain and how this particular snippet of code (class, module, component, whatever) fits into all that. The purpose of this part is for you to assess how well the candidate understands a new domain.
+
+E.g. is the candidate open to doing things in a different way than they are used to. Are they curious to learn? eager to offer insight? maybe even challenge the assumptions posed in the problem? Depending on the candidate you are looking for these are neither good or bad, just observations at this point.
+
+Next, the senior will start a conversation about how to solve the given problem. At this point your role will be to observe how the candidate and senior interacts. If they interact poorly now, it's unlikely to change once they are hired. Note that at this point in the process they are only exchanging ideas on how to tackle the problem. Maybe the candidate is more comfortable writing code, and not too comfortable discussing solutions in the abstract. Again, depending on what candidate you are looking for this is neither good or bad. We are just collecting data.
+
+Finally, it's time to write some code. The senior will be the driver (type the code) using a familiar dev environment (keyboard, editor, etc.)[1], while the candidate will co-pilot i.e. explain what the senior should do. The candidate is allowed to use any tool available, google, stackoverflow, books, documentation; whatever they need to solve the problem. The senior and the candidate should help each other. Again, the senior is not there to evaluate the candidate. Your role as interviewer is just to sit back and observe the interactions. 
+
+When the code part is complete, you can evaluate the result and have a conversation with the senior and the candidate about the solution. At this point you should have a respectful conversation about how it went. Ask what the candidate thinks of the quality of the problem, as well as the solution they produced. Talk about how the candidate felt during the exercise, what ideas were pursued and abandoned. The problem is likely not solved optimally in this setting with the stress of being observed as well as time constraints, so it's important to focus more on the process and less on the result.
+
+-----TODO: Conclusion ???-----
+
+[1] I should really stress this point more. Some developers are just signifactly less productive to the point of seemingly useless when using unfamiliar tools. Evaluating a developer's skills in an unfamiliar tool is like evaluating your driving skills in Mario Kart. In very few instances the new development tools are the job, but if you allow your developers the choice of tools (and you should) it would only disrupt your impression to  
