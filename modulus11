@@ -1,0 +1,19 @@
+CVR Check
+
+```
+e.g. CVR: 29070741 
+'29070741'.split('').map(x => +x).reduce(([t,w],x, i) => [t+w[i]*x, w], [0,[2, 7, 6, 5, 4, 3, 2, 1]])
+```
+
+CVR modulus 11 er, at den vægtede tværsum går op i 11.
+
+Altså, tag hvert ciffer i et CVR nummer, c[i], multiplicer med hver af vægtene, w[i], og læg dem sammen, og check at summen går op i 11, 
+
+sum(cvr[i]*w[i]) % 11 === 0
+
+For CVR er vægtene: 2, 7, 6, 5, 4, 3, 2, 1
+
+For CPR er vægtene 4, 3, 2, 7, 6, 5, 4, 3, 2, 1
+
+CPR numre før 2007 opfylder modulus 11. Efter 2007 findes intet gyldigt check.
+
